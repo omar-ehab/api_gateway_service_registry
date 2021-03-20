@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "semver": "^7.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
